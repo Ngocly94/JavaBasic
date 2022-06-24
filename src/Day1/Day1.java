@@ -4,9 +4,8 @@ import java.util.Scanner;
 
 public class Day1 {
 	private static Scanner input;
-	private static Scanner input2;
 
-//Ex1
+	// Ex1
 	public static void printString(String x) {
 		System.out.println(x);
 	}
